@@ -7,8 +7,9 @@ using System.Threading.Tasks;
 namespace HelloWorld  
 {
     public class StringAndCharacterDataType { }
-    string a = "NAYAN";
     Console.Write(a);
+    string a = "NAYAN";
+
 
 
 }
