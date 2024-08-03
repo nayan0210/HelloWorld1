@@ -8,6 +8,7 @@ namespace HelloWorld
 {
     public class StringAndCharacterDataType { }
     string a = "NAYAN";
+    Console.Write(a);
 
 
 }
